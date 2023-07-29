@@ -29,7 +29,7 @@ header-item2-link: /portfolio1/about
 header-item3-link: /portfolio1/blogs
 header-item4-link: /portfolio1/projects
 cta-item2: Resume
-cta-item2-link: /portfolio1/resume
+cta-item2-link: https://ilaforplacements.com/api/pdf/mangesh-resume
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
